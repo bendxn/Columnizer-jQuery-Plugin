@@ -1,0 +1,9 @@
+{
+  "name": "jquery.columnizer",
+  "version": "1.6.2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adamwulf/Columnizer-jQuery-Plugin"
+  },
+  "main": "src/jquery.columnizer.js"
+}
